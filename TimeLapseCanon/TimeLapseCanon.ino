@@ -2,7 +2,7 @@
 
 const int button = 13;
 const int ShutterPin = 2;
-const int FocusPin = 4;
+const int FocusPin = 3;
 
 //Button Debounce
 int buttonState;
